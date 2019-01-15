@@ -1,7 +1,10 @@
 # hello-world
 https://guides.github.com/activities/hello-world/
 
-This is following the hello world guide on Github
+To push things from VSCode to github, you do:
 
-I am trying an edit from VSCode.
-I am trying another edit from VSCode.
+git remote add origin <Link to GitHub Repo>
+
+git remote -v
+
+git push -u origin master
